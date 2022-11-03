@@ -1,0 +1,62 @@
+.container {
+    border: thick solid #ff0000;
+    min-height: 320px;
+    width: 70%;
+    position: relative;
+    margin-top: 150px;
+    margin-left: 100px;
+    background: radial-gradient(#ffffff, #000000);
+    
+}
+#div {
+    padding-top: 100px;
+
+}
+#jupiter {
+    margin-left: 700px;
+    margin-top: -10px;
+    position: fixed;
+
+}
+#neptune {
+    margin-left: 570px;
+    margin-top: 160px;
+    position: fixed;
+
+}
+#mars {
+    margin-left: 570px;
+    margin-top: 260px;
+    position: fixed;
+}
+#uranus {
+    margin-left: 400px;
+    margin-top: 100px;
+    position: fixed;
+}
+#mercury {
+    margin-top: 240px;
+    margin-left: 370px ;
+    position: fixed;
+}
+#saturn {
+    margin-top: -10px;
+    margin-left: 120px;
+    position: fixed;
+}
+#venus {
+margin-top: 235px;
+margin-left: 100px;
+position: fixed;
+}
+#earth {
+    margin-top: 200px;
+    position: fixed;
+    margin-left: 250px;
+}
+header strong {
+    font-size: larger;
+    font-weight: 600px;
+    color: #ffffff;
+
+}
